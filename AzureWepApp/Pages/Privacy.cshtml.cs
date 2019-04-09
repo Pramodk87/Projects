@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace AzureDeployement.Pages
+namespace AzureWepApp.Pages
 {
     public class PrivacyModel : PageModel
     {
