@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace GitRepoDeployment.Pages
+namespace AzureDeployement.Pages
 {
     public class PrivacyModel : PageModel
     {
